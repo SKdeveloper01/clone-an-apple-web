@@ -282,6 +282,10 @@ body{
     bottom: 38px;
     display: block;
 }
+#main-box7 img{
+    width: 90%;
+    height: 90%;
+}
 #main-box7 a:hover{
     text-decoration: underline;
 }
